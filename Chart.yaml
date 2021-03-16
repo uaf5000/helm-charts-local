@@ -15,9 +15,6 @@ maintainers:
   - name: Temporal Technologies Inc.
     url: https://temporal.io/
 
-sources:
-  - https://github.com/temporalio/temporal
-
 # A chart can be either an 'application' or a 'library' chart.
 #
 # Application charts are a collection of templates that can be packaged into versioned archives
